@@ -1,0 +1,18 @@
+
+[
+    
+{
+    "id":1,
+    "name":"saman",
+    "password":"123456",
+    "status":"paied",
+    "shoplist":["A","B","C"]
+},
+{
+    "id":2,
+    "name":"minoo",
+    "password":"123456",
+    "status":"paied",
+    "shoplist":["Aac","Bb","CAb"]
+}
+]
