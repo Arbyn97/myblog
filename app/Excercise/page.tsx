@@ -10,7 +10,7 @@ function SortByName() {
             className='border-2 border-amber-700'/>
 
          <button className='border-red-300 border-2 bg-red-400'
-            onClick={()=>setUsers([...users,{name:search,id:}])}>
+            onClick={()=>setUsers([...users,{name:search,id:Date.now()}])}>
                Add and Sort
         </button>
 
