@@ -6,8 +6,8 @@ import { Children } from 'react';
 export default function Home({}) {
   return (
     <>
-    {/* <div className="  border-2 justify-center items-center bg-zinc-50 dark:bg-black"> */}
-    {/* <div className='grid 
+    <div className="  border-2 justify-center items-center bg-zinc-50 dark:bg-black">
+    <div className='grid 
   grid-cols-1
   sm:grid-cols-2
   md:grid-cols-3
@@ -30,8 +30,9 @@ export default function Home({}) {
         </p>
         </Link>
     )}
-    </div> */}
-    {/* </div> */}
+    </div>
+    </div>
+    
     
     </>
   );
